@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+pyyaml
+requests
+snowflake-connector-python
